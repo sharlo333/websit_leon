@@ -147,7 +147,7 @@ a {
 /* End heading */
 /* Start landing */
 .landing {
-  background-image: url(../emages/landin.webp);
+  background-image: url(../emages/back.jpg);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
